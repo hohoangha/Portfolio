@@ -1,0 +1,25 @@
+.Main__work {
+    background: var(--greyBg);
+}
+
+.Work__title {
+    color: var(--accentYellow);
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+.Work__subTitle {
+    color: var(--accentBlue);
+    font-size: 3.2rem;
+}
+
+.Work__projectTitle {
+    color: var(--accentBlue);
+    font-size: 2rem;
+}
+
+.Work__projectInfo {
+    color: var(--blueOpacity);
+    font-size: 1.5rem;
+    line-height: 1.4;
+}

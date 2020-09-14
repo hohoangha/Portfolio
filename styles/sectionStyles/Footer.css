@@ -1,0 +1,13 @@
+.Footer {
+    background: var(--greyBg);
+}
+
+.Footer__copyright {
+    color: var(--accentYellow);
+    font-size: 2rem;
+}
+
+.Footer__socialLink {
+    color: var(--accentBlue);
+}
+
